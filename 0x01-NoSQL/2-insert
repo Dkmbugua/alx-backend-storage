@@ -1,4 +1,4 @@
-// insert a document 
+// my comment 
 db.school.insertOne({
     "name": "ALX"
 });
