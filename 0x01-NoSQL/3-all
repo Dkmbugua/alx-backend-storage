@@ -1,2 +1,2 @@
-// All documents
+// my comment
 db.school.find()
