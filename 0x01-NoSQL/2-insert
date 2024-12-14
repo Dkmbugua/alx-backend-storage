@@ -1,4 +1,2 @@
-// my comment 
-db.school.insertOne({
-    "name": "ALX"
-});
+// Inserts document.
+db.school.insert({ name : "Holberton school" })
